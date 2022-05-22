@@ -34,5 +34,5 @@ Here is some Languages I know
 
 
 <p align="center">🌱 I’m currently learning Javascript - Node.js</p>
-<p align="center">😄 Pronouns:  He / Him </p>
+<p align="center">😄 Pronouns:  Any Pronouns</p>
 
