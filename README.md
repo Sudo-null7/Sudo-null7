@@ -33,9 +33,11 @@ Here is some Languages I know
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg alt=bash width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt=C# width="30" height="30"/>
+</p>
 <p align="center" style="font-size: 2px;">
 I also use
 </p>
+<p align="center">
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg alt=Putty width="30" height="30"/>
 </p>
 
