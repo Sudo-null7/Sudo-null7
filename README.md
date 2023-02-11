@@ -13,7 +13,7 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://null.is-a-dev.tk >
+<a target="_blank" href=https://null.parr.lol >
   <img height="25" width="25" src="https://user-images.githubusercontent.com/70843928/154154241-e49e888d-92eb-4abe-b303-885a5a759d0f.png" fill="#fff"/>
   &nbsp;
 </a>
@@ -29,10 +29,17 @@ Here is some Languages I know
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=mysql width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg alt=bash width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt=C# width="30" height="30"/>
+<p align="center" style="font-size: 2px;">
+I also use
+</p>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg alt=Putty width="30" height="30"/>
 </p>
 
 
-<p align="center">🌱 I’m currently learning Javascript - Node.js</p>
+<p align="center">🌱 I’m currently learning C#</p>
 <p align="center">😄 Pronouns:  Any Pronouns</p>
 
