@@ -43,5 +43,5 @@ I also use
 
 
 <p align="center">🌱 I’m currently learning C#</p>
-<p align="center">😄 Pronouns:  Any Pronouns</p>
+<p align="center">😄 Pronouns:  She/Her</p>
 
