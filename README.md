@@ -13,7 +13,7 @@
   &nbsp;
 </a>
 
-<a target="_blank" href=https://null.parr.lol >
+<a target="_blank" href=https://null.parr.pw >
   <img height="25" width="25" src="https://user-images.githubusercontent.com/70843928/154154241-e49e888d-92eb-4abe-b303-885a5a759d0f.png" fill="#fff"/>
   &nbsp;
 </a>
